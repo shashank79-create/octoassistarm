@@ -1,0 +1,64 @@
+irregular staged at [-0.4 0 0.06]; destination [-0.32 0.18 0.06] m.
+Located existing irregular at [-0.4 0 0.06] m.
+Checking clearance on an invisible copy. The visible arm remains stationary.
+Preflight clearance checks: 21 / 126
+Preflight clearance checks: 42 / 126
+Preflight clearance checks: 63 / 126
+Preflight clearance checks: 84 / 126
+Preflight clearance checks: 105 / 126
+Preflight clearance checks: 126 / 126
+Preflight: 126 samples; minimum support clearance 7.304 mm.
+Clearance checks passed. Starting the physical grasp and carry.
+Approaching above the object [MOVE_1]; sealed cups=0
+  [MOVE_1, sim 1.6 s] Object [-0.3999 -0.0008 0.0601] m; peak lift 0.1 mm; cups=0
+  [MOVE_1, sim 3.4 s] Object [-0.4000 -0.0007 0.0601] m; peak lift 0.1 mm; cups=0
+  [MOVE_1, sim 5.4 s] Object [-0.4001 -0.0006 0.0601] m; peak lift 0.1 mm; cups=0
+  [MOVE_1, sim 6.9 s] Object [-0.4002 -0.0006 0.0601] m; peak lift 0.1 mm; cups=0
+  [MOVE_1, sim 8.6 s] Object [-0.4003 -0.0005 0.0601] m; peak lift 0.1 mm; cups=0
+  [MOVE_1, sim 10.3 s] Object [-0.4004 -0.0004 0.0601] m; peak lift 0.1 mm; cups=0
+  [MOVE_1, sim 11.6 s] Object [-0.4005 -0.0004 0.0601] m; peak lift 0.1 mm; cups=0
+  [MOVE_1, sim 12.8 s] Object [-0.4005 -0.0003 0.0601] m; peak lift 0.1 mm; cups=0
+  [MOVE_1, sim 14.4 s] Object [-0.4007 -0.0003 0.0601] m; peak lift 0.1 mm; cups=0
+Lowering the hand to the object [MOVE_2]; sealed cups=0
+  [MOVE_2, sim 16.2 s] Object [-0.4007 -0.0002 0.0601] m; peak lift 0.1 mm; cups=0
+Wrapping fingers and engaging suction [WRAP]; sealed cups=0
+  [WRAP, sim 17.4 s] Object [-0.4008 -0.0001 0.0601] m; peak lift 0.1 mm; cups=0
+  [WRAP, sim 18.0 s] Object [-0.4008 -0.0001 0.0601] m; peak lift 0.1 mm; cups=0
+  [WRAP, sim 18.5 s] Object [-0.4008 -0.0001 0.0601] m; peak lift 0.1 mm; cups=0
+  [WRAP, sim 18.9 s] Object [-0.4008 -0.0001 0.0601] m; peak lift 0.1 mm; cups=0
+  [WRAP, sim 19.4 s] Object [-0.4008 -0.0001 0.0601] m; peak lift 0.1 mm; cups=0
+  [WRAP, sim 20.0 s] Object [-0.3956 0.0046 0.0605] m; peak lift 0.5 mm; cups=1
+  [WRAP, sim 20.6 s] Object [-0.3952 0.0049 0.0605] m; peak lift 0.5 mm; cups=3
+  [WRAP, sim 21.2 s] Object [-0.3950 0.0050 0.0604] m; peak lift 0.5 mm; cups=4
+  [WRAP, sim 21.7 s] Object [-0.3950 0.0050 0.0604] m; peak lift 0.5 mm; cups=4
+  [WRAP, sim 22.5 s] Object [-0.3951 0.0050 0.0604] m; peak lift 0.5 mm; cups=5
+  [WRAP, sim 24.3 s] Object [-0.3951 0.0049 0.0604] m; peak lift 0.5 mm; cups=11
+Checking grip capacity [HOLD_TEST]; sealed cups=16
+  [HOLD_TEST, sim 29.5 s] Object [-0.3951 0.0049 0.0605] m; peak lift 0.5 mm; cups=16
+Lifting the object [MOVE_3]; sealed cups=16
+  [MOVE_3, sim 31.2 s] Object [-0.3970 0.0054 0.1432] m; peak lift 83.2 mm; cups=16
+Checking measured object lift [LIFT_SETTLE]; sealed cups=16
+Carrying the object to the destination [MOVE_4]; sealed cups=16
+  [MOVE_4, sim 33.1 s] Object [-0.3898 0.0308 0.1598] m; peak lift 99.9 mm; cups=16
+  [MOVE_4, sim 34.2 s] Object [-0.3355 0.1576 0.1599] m; peak lift 99.9 mm; cups=16
+Lowering the object at the destination [MOVE_5]; sealed cups=16
+  [MOVE_5, sim 35.3 s] Object [-0.3211 0.1808 0.1492] m; peak lift 100.0 mm; cups=16
+  [MOVE_5, sim 36.4 s] Object [-0.3199 0.1800 0.0610] m; peak lift 100.0 mm; cups=16
+Confirming physical support contact [SETDOWN]; sealed cups=16
+  [SETDOWN, sim 36.5 s] Object [-0.3199 0.1800 0.0607] m; peak lift 100.0 mm; cups=16
+  [SETDOWN, sim 36.6 s] Object [-0.3199 0.1800 0.0604] m; peak lift 100.0 mm; cups=16
+  [SETDOWN, sim 36.6 s] Object [-0.3199 0.1799 0.0604] m; peak lift 100.0 mm; cups=16
+  [SETDOWN, sim 36.8 s] Object [-0.3198 0.1799 0.0604] m; peak lift 100.0 mm; cups=16
+Releasing suction and opening one digit at a time [VENT]; sealed cups=16
+  [VENT, sim 44.6 s] Object [-0.3198 0.1800 0.0604] m; peak lift 100.0 mm; cups=12
+Retreating after release [MOVE_6]; sealed cups=0
+  [MOVE_6, sim 55.2 s] Object [-0.3203 0.1798 0.0605] m; peak lift 100.0 mm; cups=0
+  [MOVE_6, sim 56.4 s] Object [-0.3203 0.1797 0.0605] m; peak lift 100.0 mm; cups=0
+Waiting for the object to settle [SETTLE]; sealed cups=0
+Task complete [DONE]; sealed cups=0
+Completed=1, success=1, sealed cups max=16
+Placed object at [-0.3204 0.1796 0.0605] m; target error 0.70 mm.
+Stopping previous DONE task before preparing the next command...
+irregular staged at [-0.4 0 0.06]; destination [-0.32 0.18 0.06] m.
+View reset: full arm, hand, and four objects framed.
+IRREGULAR WEST PHYSICAL PICK PLACE RELEASE PASSED

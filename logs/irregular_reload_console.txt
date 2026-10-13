@@ -1,0 +1,2 @@
+View reset: full arm, hand, and four objects framed.
+IRREGULAR SAVED SCENE RELOAD, MASS, DYNAMIC BODY AND INPUT CHECKS PASSED

@@ -1,0 +1,10 @@
+{
+  "Success": true,
+  "LiftMM": 100.02568745113894,
+  "ErrorMM": 0.7030444688685991,
+  "PeakSeals": 16,
+  "EndSeals": 0,
+  "LimitedPreload": true,
+  "Mass": 0.1,
+  "Parent": -1
+}

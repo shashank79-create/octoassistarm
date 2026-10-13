@@ -1,0 +1,1 @@
+{"starts":[[0,0.4,0.025],[0,-0.4,0.06],[0.4,0,0.06]],"destinations":[[0.33,0.2,0.025],[0.33,-0.2,0.06],[0.48,0.16,0.06]],"unselectedObjectsUnchanged":true,"unreachableStartRejectedWithoutMovingPayload":true,"preflight":{"samples":126,"passed":true,"minimumApproachObject":0.0047065361966574133,"done":true,"reason":"","minimumGround":0.0064434029362008035}}

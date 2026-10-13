@@ -1,0 +1,15 @@
+sphere staged at [0 0.4 0.025]; destination [0.33 0.2 0.025] m.
+cylinder staged at [0 -0.4 0.06]; destination [0.33 -0.2 0.06] m.
+box staged at [0.4 0 0.06]; destination [0.48 0.16 0.06] m.
+sphere staged at [0 0.4 0.025]; destination [0.33 0.2 0.025] m.
+Located existing sphere at [0 0.4 0.025] m.
+Checking clearance on an invisible copy. The visible arm remains stationary.
+Preflight clearance checks: 21 / 126
+Preflight clearance checks: 42 / 126
+Preflight clearance checks: 63 / 126
+Preflight clearance checks: 84 / 126
+Preflight clearance checks: 105 / 126
+Preflight clearance checks: 126 / 126
+Preflight: 126 samples; minimum support clearance 6.443 mm.
+View reset: full arm, hand, and three objects framed.
+PER-OBJECT START/END INPUT AND NATIVE PREFLIGHT PASSED; SCENE STOPPED

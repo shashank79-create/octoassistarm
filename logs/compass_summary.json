@@ -1,0 +1,23 @@
+[
+  {
+    "Object": "sphere",
+    "Success": true,
+    "LiftMM": 99.99781463295015,
+    "ErrorMM": 4.810828483531672,
+    "EndSeals": 0
+  },
+  {
+    "Object": "cylinder",
+    "Success": true,
+    "LiftMM": 100.2832056391357,
+    "ErrorMM": 1.3668526561148449,
+    "EndSeals": 0
+  },
+  {
+    "Object": "box",
+    "Success": true,
+    "LiftMM": 100.1143560904777,
+    "ErrorMM": 0.8533006505119607,
+    "EndSeals": 0
+  }
+]

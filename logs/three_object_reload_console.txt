@@ -1,0 +1,5 @@
+sphere at [0.42 -0.2 0.025] m
+cylinder at [0.42 0 0.06] m
+box at [0.32 0.22 0.06] m
+All three objects staged. Run run_octopus and select the existing object.
+SAVED THREE-OBJECT SCENE RELOAD PASSED; READY FOR run_octopus

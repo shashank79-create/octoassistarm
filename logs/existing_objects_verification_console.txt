@@ -1,0 +1,155 @@
+sphere at [0.42 -0.2 0.025] m
+cylinder at [0.42 0 0.06] m
+box at [0.32 0.22 0.06] m
+All three objects staged. Run run_octopus and select the existing object.
+sphere at [0.42 -0.2 0.025] m
+cylinder at [0.42 0 0.06] m
+box at [0.32 0.22 0.06] m
+All three objects staged. Run run_octopus and select the existing object.
+Located existing cylinder at [0.42 0 0.06] m.
+Checking clearance on an invisible copy. The visible arm remains stationary.
+Preflight clearance checks: 21 / 126
+Preflight clearance checks: 42 / 126
+Preflight clearance checks: 63 / 126
+Preflight clearance checks: 84 / 126
+Preflight clearance checks: 105 / 126
+Preflight clearance checks: 126 / 126
+Preflight: 126 samples; minimum support clearance 21.854 mm.
+Located existing cylinder at [0.42 0 0.06] m.
+Checking clearance on an invisible copy. The visible arm remains stationary.
+Preflight clearance checks: 21 / 126
+Preflight clearance checks: 42 / 126
+Preflight clearance checks: 63 / 126
+Preflight clearance checks: 84 / 126
+Preflight clearance checks: 105 / 126
+Preflight clearance checks: 126 / 126
+Preflight: 126 samples; minimum support clearance 21.854 mm.
+Clearance checks passed. Starting the physical grasp and carry.
+Approaching above the object [MOVE_1]; sealed cups=0
+  [MOVE_1, sim 1.6 s] Object [0.4200 0.0000 0.0600] m; peak lift 0.0 mm; cups=0
+Lowering the hand to the object [MOVE_2]; sealed cups=0
+  [MOVE_2, sim 3.3 s] Object [0.4199 -0.0001 0.0599] m; peak lift 0.0 mm; cups=0
+Wrapping fingers and engaging suction [WRAP]; sealed cups=0
+  [WRAP, sim 4.1 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=0
+  [WRAP, sim 4.6 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=0
+  [WRAP, sim 4.9 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=1
+  [WRAP, sim 5.3 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 5.8 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 6.2 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 6.6 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 6.9 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 7.2 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 7.6 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 7.9 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 8.2 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 8.5 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 8.8 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 9.1 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 9.4 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 9.7 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 10.0 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 10.3 s] Object [0.4199 -0.0001 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 10.6 s] Object [0.4200 -0.0001 0.0600] m; peak lift 0.0 mm; cups=3
+  [WRAP, sim 10.8 s] Object [0.4200 -0.0001 0.0600] m; peak lift 0.0 mm; cups=3
+  [WRAP, sim 11.0 s] Object [0.4200 0.0000 0.0600] m; peak lift 0.0 mm; cups=3
+  [WRAP, sim 11.5 s] Object [0.4200 -0.0000 0.0600] m; peak lift 0.0 mm; cups=5
+  [WRAP, sim 11.8 s] Object [0.4203 0.0002 0.0600] m; peak lift 0.2 mm; cups=5
+  [WRAP, sim 12.3 s] Object [0.4203 0.0001 0.0600] m; peak lift 0.2 mm; cups=7
+  [WRAP, sim 14.1 s] Object [0.4202 0.0001 0.0600] m; peak lift 0.2 mm; cups=7
+  [WRAP, sim 16.9 s] Object [0.4202 0.0001 0.0600] m; peak lift 0.2 mm; cups=7
+Checking grip capacity [HOLD_TEST]; sealed cups=7
+Lifting the object [MOVE_3]; sealed cups=7
+  [MOVE_3, sim 19.2 s] Object [0.4235 0.0005 0.0927] m; peak lift 32.7 mm; cups=7
+Checking measured object lift [LIFT_SETTLE]; sealed cups=7
+Carrying the object to the destination [MOVE_4]; sealed cups=7
+  [MOVE_4, sim 21.5 s] Object [0.4292 0.0137 0.1565] m; peak lift 97.9 mm; cups=7
+  [MOVE_4, sim 23.0 s] Object [0.4789 0.1512 0.1591] m; peak lift 99.1 mm; cups=7
+Lowering the object at the destination [MOVE_5]; sealed cups=7
+  [MOVE_5, sim 24.3 s] Object [0.4836 0.1618 0.1128] m; peak lift 100.1 mm; cups=7
+Confirming physical support contact [SETDOWN]; sealed cups=7
+  [SETDOWN, sim 25.3 s] Object [0.4801 0.1600 0.0606] m; peak lift 100.1 mm; cups=7
+  [SETDOWN, sim 25.3 s] Object [0.4801 0.1600 0.0603] m; peak lift 100.1 mm; cups=7
+  [SETDOWN, sim 25.4 s] Object [0.4800 0.1601 0.0602] m; peak lift 100.1 mm; cups=7
+  [SETDOWN, sim 25.5 s] Object [0.4799 0.1601 0.0601] m; peak lift 100.1 mm; cups=7
+Releasing suction and opening one digit at a time [VENT]; sealed cups=7
+  [VENT, sim 41.6 s] Object [0.4806 0.1593 0.0600] m; peak lift 100.1 mm; cups=0
+Retreating after release [MOVE_6]; sealed cups=0
+  [MOVE_6, sim 44.7 s] Object [0.4806 0.1593 0.0600] m; peak lift 100.1 mm; cups=0
+  [MOVE_6, sim 45.9 s] Object [0.4806 0.1593 0.0600] m; peak lift 100.1 mm; cups=0
+Waiting for the object to settle [SETTLE]; sealed cups=0
+Task complete [DONE]; sealed cups=0
+Completed=1, success=1, sealed cups max=7
+Placed object at [0.4806 0.1593 0.0600] m; target error 0.92 mm.
+Stopping previous DONE task before preparing the next command...
+EXISTING cylinder PASSED: source measured, no preparation teleport, other objects preserved, final pose retained.
+sphere at [0.42 -0.2 0.025] m
+cylinder at [0.42 0 0.06] m
+box at [0.32 0.22 0.06] m
+All three objects staged. Run run_octopus and select the existing object.
+Located existing box at [0.32 0.22 0.06] m.
+Checking clearance on an invisible copy. The visible arm remains stationary.
+Preflight clearance checks: 21 / 126
+Preflight clearance checks: 42 / 126
+Preflight clearance checks: 63 / 126
+Preflight clearance checks: 84 / 126
+Preflight clearance checks: 105 / 126
+Preflight clearance checks: 126 / 126
+Preflight: 126 samples; minimum support clearance 4.354 mm.
+Located existing box at [0.32 0.22 0.06] m.
+Checking clearance on an invisible copy. The visible arm remains stationary.
+Preflight clearance checks: 21 / 126
+Preflight clearance checks: 42 / 126
+Preflight clearance checks: 63 / 126
+Preflight clearance checks: 84 / 126
+Preflight clearance checks: 105 / 126
+Preflight clearance checks: 126 / 126
+Preflight: 126 samples; minimum support clearance 4.354 mm.
+Clearance checks passed. Starting the physical grasp and carry.
+Approaching above the object [MOVE_1]; sealed cups=0
+  [MOVE_1, sim 1.8 s] Object [0.3200 0.2200 0.0600] m; peak lift 0.0 mm; cups=0
+  [MOVE_1, sim 3.1 s] Object [0.3200 0.2200 0.0600] m; peak lift 0.0 mm; cups=0
+Lowering the hand to the object [MOVE_2]; sealed cups=0
+  [MOVE_2, sim 4.3 s] Object [0.3200 0.2200 0.0600] m; peak lift 0.0 mm; cups=0
+  [MOVE_2, sim 5.3 s] Object [0.3200 0.2200 0.0600] m; peak lift 0.0 mm; cups=0
+Wrapping fingers and engaging suction [WRAP]; sealed cups=0
+  [WRAP, sim 5.9 s] Object [0.3200 0.2200 0.0600] m; peak lift 0.0 mm; cups=0
+  [WRAP, sim 6.5 s] Object [0.3200 0.2200 0.0600] m; peak lift 0.0 mm; cups=0
+  [WRAP, sim 7.0 s] Object [0.3200 0.2200 0.0600] m; peak lift 0.0 mm; cups=0
+  [WRAP, sim 7.6 s] Object [0.3192 0.2201 0.0600] m; peak lift 0.0 mm; cups=1
+  [WRAP, sim 8.4 s] Object [0.3192 0.2201 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 9.2 s] Object [0.3192 0.2201 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 10.0 s] Object [0.3192 0.2201 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 10.9 s] Object [0.3192 0.2201 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 11.8 s] Object [0.3192 0.2201 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 12.6 s] Object [0.3191 0.2204 0.0600] m; peak lift 0.0 mm; cups=2
+  [WRAP, sim 13.4 s] Object [0.3191 0.2219 0.0600] m; peak lift 0.2 mm; cups=2
+Checking grip capacity [HOLD_TEST]; sealed cups=6
+Lifting the object [MOVE_3]; sealed cups=6
+  [MOVE_3, sim 19.5 s] Object [0.3193 0.2221 0.0600] m; peak lift 0.2 mm; cups=6
+  [MOVE_3, sim 20.4 s] Object [0.3205 0.2234 0.1416] m; peak lift 81.6 mm; cups=6
+Checking measured object lift [LIFT_SETTLE]; sealed cups=6
+Carrying the object to the destination [MOVE_4]; sealed cups=6
+  [MOVE_4, sim 22.2 s] Object [0.3311 0.2204 0.1569] m; peak lift 98.1 mm; cups=6
+  [MOVE_4, sim 23.3 s] Object [0.4548 0.1760 0.1567] m; peak lift 98.1 mm; cups=6
+Lowering the object at the destination [MOVE_5]; sealed cups=6
+  [MOVE_5, sim 24.8 s] Object [0.4831 0.1616 0.1262] m; peak lift 99.4 mm; cups=6
+  [MOVE_5, sim 25.9 s] Object [0.4797 0.1600 0.0606] m; peak lift 99.4 mm; cups=6
+Confirming physical support contact [SETDOWN]; sealed cups=6
+  [SETDOWN, sim 25.9 s] Object [0.4799 0.1600 0.0608] m; peak lift 99.4 mm; cups=6
+  [SETDOWN, sim 26.0 s] Object [0.4798 0.1600 0.0606] m; peak lift 99.4 mm; cups=6
+  [SETDOWN, sim 26.0 s] Object [0.4798 0.1600 0.0605] m; peak lift 99.4 mm; cups=6
+Releasing suction and opening one digit at a time [VENT]; sealed cups=6
+  [VENT, sim 42.0 s] Object [0.4803 0.1592 0.0600] m; peak lift 99.4 mm; cups=0
+Retreating after release [MOVE_6]; sealed cups=0
+  [MOVE_6, sim 45.6 s] Object [0.4803 0.1592 0.0600] m; peak lift 99.4 mm; cups=0
+Waiting for the object to settle [SETTLE]; sealed cups=0
+Task complete [DONE]; sealed cups=0
+Completed=1, success=1, sealed cups max=6
+Placed object at [0.4803 0.1592 0.0600] m; target error 0.85 mm.
+Stopping previous DONE task before preparing the next command...
+EXISTING box PASSED: source measured, no preparation teleport, other objects preserved, final pose retained.
+sphere at [0.42 -0.2 0.025] m
+cylinder at [0.42 0 0.06] m
+box at [0.32 0.22 0.06] m
+All three objects staged. Run run_octopus and select the existing object.
+THREE EXISTING OBJECTS VERIFIED; INITIAL THREE-OBJECT LAYOUT LEFT VISIBLE

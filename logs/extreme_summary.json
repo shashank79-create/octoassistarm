@@ -1,0 +1,21 @@
+{
+  "success": true,
+  "liftMm": 100.03088561682186,
+  "placeErrorMm": 0.12199539389769738,
+  "maxSeals": 4,
+  "finalSeals": 0,
+  "parent": -1,
+  "concaveRecessClearanceMm": 11.810227941307224,
+  "start": [
+    -0.3,
+    0.3,
+    0.06
+  ],
+  "destination": [
+    -0.18,
+    0.32,
+    0.06
+  ],
+  "massKg": 0.1,
+  "unselectedPositionsPreserved": true
+}
